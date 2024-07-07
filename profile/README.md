@@ -1,12 +1,15 @@
-# MiastoX - Spark Team 🚀
+# A Ya - Spark Team 🚀
 
-## Hi there 👋 we are Spark Team
+## Hi there 👋 we are Spark Team the Poland distribuitor of A ya Company enterproceies and code's
 
 ### Team
 - Him (anonym)
 - Whiekali
 
----
+### Team
+- Him (anonym)
+- Whiekali
+
 
 ### 💡 About Us
 Spark Team is dedicated to pushing the boundaries of interactive entertainment.Spark is passionate about crafting unique gaming experiences. Our project, MiastoX, is a dynamic city-building game that challenges players to think strategically and creatively.
@@ -39,3 +42,8 @@ We aim to create games that not only entertain but also inspire creativity and s
 **Spark Company**  
 Warszawa, Polska  
 Data: 2024-07-07
+
+
+
+
+![image](https://github.com/AyaWebka/.github/assets/58193894/b453320d-d55c-40f5-a182-3212fff7d348)
