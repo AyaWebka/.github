@@ -1,0 +1,13 @@
+{
+    "name": "A Ya Organization Workflow",
+    "description": "A Ya Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
