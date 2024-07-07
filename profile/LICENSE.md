@@ -40,3 +40,39 @@ Warszawa, Polska
 Data: 2024-07-07
 
 ---
+
+
+
+
+
+
+---
+Wzorce licencji skryptów
+---
+
+# MiastoX Proprietary License
+
+## 1. Klauzula poufności dla Skryptu [Nazwa Skryptu]
+Oto skrypt [Nazwa Skryptu], który został udostępniony w ramach Oprogramowania MiastoX. Skrypt ten jest objęty niniejszą Licencją i podlega jej warunkom. Data aktualizacji: [Data Aktualizacji].
+
+Skrypt [Nazwa Skryptu] jest integralną częścią Oprogramowania MiastoX i jest przeznaczony do współpracy z głównym kodem źródłowym, będącym własnością Licencjodawcy. Korzystanie z tego skryptu jest możliwe wyłącznie na zasadach określonych w niniejszej Licencji.
+
+
+
+
+
+## Klauzula poufności
+Skrypt [Nazwa Skryptu] jest własnością Licencjodawcy i chroniony prawem autorskim. Użytkownik zobowiązany jest do przestrzegania warunków niniejszej Licencji w odniesieniu do korzystania z tego skryptu. Data aktualizacji: [Data Aktualizacji].
+
+-- Lua comment: Skrypt [Nazwa Skryptu] jest integralną częścią Oprogramowania MiastoX, udostępnioną zgodnie z warunkami MiastoX Proprietary License. Korzystanie z tego skryptu odbywa się na zasadach wyłącznie określonych przez Licencjodawcę.
+
+
+
+
+### Struktura danych własności
+- **Oprogramowanie**: MiastoX
+- **Skrypt**: [Nazwa Skryptu]
+- **Licencjodawca**: Aya dla Team Spark
+- **Data aktualizacji**: 06.07.2024
+
+Skrypt [Nazwa Skryptu] jest integralną częścią Oprogramowania MiastoX, udostępnioną zgodnie z warunkami MiastoX Proprietary License. Korzystanie z tego skryptu odbywa się na zasadach wyłącznie określonych przez Licencjodawcę, Aya dla Team Spark.
