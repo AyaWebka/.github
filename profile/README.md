@@ -2,14 +2,18 @@
 
 ## Hi there 👋 we are Spark Team the Poland distribuitor of A ya Company enterproceies and code's
 
-### Team
-- Him (anonym)
-- Whiekali
+/                              Opis                                                                 / 
+ 
+Loremipsum
+
+/                                                                                                   /
+---
 
 ### Team
 - Him (anonym)
 - Whiekali
 
+---
 
 ### 💡 About Us
 Spark Team is dedicated to pushing the boundaries of interactive entertainment.Spark is passionate about crafting unique gaming experiences. Our project, MiastoX, is a dynamic city-building game that challenges players to think strategically and creatively.
@@ -43,7 +47,27 @@ We aim to create games that not only entertain but also inspire creativity and s
 Warszawa, Polska  
 Data: 2024-07-07
 
+---
 
+### Gra'y Roblox:
 
+- **Nazwa gry:** MiastoX
+- **Opis gry:** MiastoX to dynamiczna gra przygodowa osadzona w futurystycznym świecie, gdzie gracze mogą eksplorować, budować i rywalizować ze sobą. Gra oferuje bogaty świat do odkrywania, różnorodne zadania do wykonania oraz unikalne mechaniki rozgrywki.
+- **Data premiery:** [Wprowadź datę premiery gry MiastoX]
+- **Lista funkcji gry:** 
+  - Możliwość budowy własnych struktur
+  - System walki i eksploracji
+  - Zróżnicowane misje i wyzwania
+  - Interaktywne NPC
+  - System handlu i ekonomii w grze
+- **Mechanika gry:** 
+  - Budowanie i konstruowanie
+  - Zadania fabularne i poboczne
+  - System zdobywania doświadczenia i umiejętności
+- **Lokacje w grze:** 
+  - Miasto główne
+  - Obszary podmiejskie
+  - Tajemnicze jaskinie i labirynty
+  - Bazy wrogów i neutralne punkty
 
 ![image](https://github.com/AyaWebka/.github/assets/58193894/b453320d-d55c-40f5-a182-3212fff7d348)
